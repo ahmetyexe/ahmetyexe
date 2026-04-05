@@ -1,4 +1,4 @@
-![GitHub Snake](https://raw.githubusercontent.com/ahmetyexe/ahmetyexe/output/github-contribution-grid-snake.svg)## Hi there 👋
+![GitHub Snake](https://raw.githubusercontent.com/ahmetyexe/ahmetyexe/output/github-contribution-grid-snake.svg)## Ahmet Y.
 
 <!--
 **ahmetyexe/ahmetyexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
